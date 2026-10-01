@@ -1,0 +1,9 @@
+Feature,Importance
+tenure_months,0.23389635620561244
+total_charges,0.2260992908269796
+monthly_charges,0.20709866228479995
+tenure_years,0.12462558163361964
+support_call_rate,0.09967809539737121
+age,0.09506397286048461
+support_calls,0.013538040791132562
+age_group_encoded,0.0
